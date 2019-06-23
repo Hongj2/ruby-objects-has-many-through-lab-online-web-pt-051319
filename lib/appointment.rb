@@ -1,4 +1,3 @@
-
 class Appoointment #the joining class
   attr_accessor :date, :patient, :doctor
   @@all = []
