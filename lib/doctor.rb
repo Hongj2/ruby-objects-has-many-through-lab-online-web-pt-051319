@@ -1,4 +1,4 @@
-class Doctor
+tclass Doctor
   attr_accessor :name
   @@all = []
   
