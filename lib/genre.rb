@@ -1,4 +1,4 @@
-class Genre
+tclass Genre
 	attr_accessor :name
     @@all = []
  	def initialize(name)
